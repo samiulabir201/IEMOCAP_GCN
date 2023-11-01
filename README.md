@@ -70,14 +70,6 @@ optional arguments:
 If you found this repo useful give me a star!
 
 [ArXiv's paper](https://arxiv.org/pdf/2008.02063)
-```
-@article{shirian2020compact,
-  title={Compact Graph Architecture for Speech Emotion Recognition},
-  author={Shirian, Amir and Guha, Tanaya},
-  journal={arXiv preprint arXiv:2008.02063},
-  year={2020}
-}
-```
 
 
 
